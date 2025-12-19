@@ -1,2 +1,2 @@
-# text2zip
-text2zip compresses files to bin files using gzip
+# text2bin
+text2bin compresses files to bin files using gzip
