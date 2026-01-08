@@ -1,0 +1,36 @@
+{
+  "name": "apihub",
+  "version": "1.0.0",
+  "description": "apihub is a collection of NPM package functions that you can buy for $0.99 for unlimited calls",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamcha123/apihub.git"
+  },
+  "keywords": [
+    "apis",
+    "payments for an api key",
+    "collections"
+  ],
+  "author": "jamcha123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jamcha123/apihub/issues"
+  },
+  "homepage": "https://github.com/Jamcha123/apihub#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "http-proxy": "^1.18.1",
+    "node-gzip": "^1.1.2",
+    "nodemon": "^3.1.11",
+    "puppeteer": "^24.34.0",
+    "socket.io": "^4.8.3"
+  }
+}
